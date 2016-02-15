@@ -4,7 +4,7 @@
 * **template.mustache** - mask for save image parametrs
 
 ## Mixins
-* `.spriteWidth(@sprite)` - return *width* property with value
+* ```less .spriteWidth(@sprite)``` - return *width* property with value
 * `.spriteHeight(@sprite)` - return *height* property with value
 * `.spritePosition(@sprite)` - return *background-position* property with value
 * `.spriteImage(@sprite)` - return *background-image* property with value
