@@ -1,1 +1,1 @@
-# Mask and settings gulp.spritesmith plugin for Less
+# Mask, mixins and settings gulp.spritesmith plugin for Less
