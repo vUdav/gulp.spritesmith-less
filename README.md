@@ -13,9 +13,10 @@
 ## Example
 1. Add your png file to source images dir (ex. logo.png and icon.png)
 2. Add styles to your less file:
-    .logo {
-        .sprite(@s-logo);
-    }
-    .icon {
-        .sprite(@s-icon);
-    }
+
+	.logo {
+		.sprite(@s-logo);
+	}
+	.icon {
+		.sprite(@s-icon);
+	}
