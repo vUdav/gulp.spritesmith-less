@@ -1,0 +1,1 @@
+# Mask and settings gulp.spritesmith plugin for Less
